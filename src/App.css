@@ -12,7 +12,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.drum-pad:active{
+.drum-pad:playing{
   background: yellow;
 }
 .App-header {

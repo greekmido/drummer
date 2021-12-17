@@ -33,36 +33,7 @@ function KeyPad (){
     
     return(
         <div id="key-pad">
-            
-            
-            
-            <button id="q" className="drum-pad" onClick={(e)=>playTonehandle(e)}>Q
-            <audio id="Q" className="clip" src={clap}/>
-            </button>
-            <button id="w" className="drum-pad" onClick={(e)=>playTonehandle(e)}>W
-            <audio id="W" src={eleckick} className="clip"/>
-            </button>
-            <button id="e" className="drum-pad" onClick={(e)=>playTonehandle(e)}>E
-            <audio id="E" src={hat} className="clip"/>
-            </button>
-            <button id="a" className="drum-pad" onClick={(e)=>playTonehandle(e)}>A
-            <audio id="A" src={kick} className="clip"/>
-            </button>
-            <button id="s" className="drum-pad" onClick={(e)=>playTonehandle(e)}>S
-            <audio id="S" src={ride} className="clip"/>
-            </button>
-            <button id="d" className="drum-pad" onClick={(e)=>playTonehandle(e)}>D
-            <audio id="D" src={snare} className="clip"/>
-            </button>
-            <button id="z" className="drum-pad" onClick={(e)=>playTonehandle(e)}>Z
-            <audio id="Z" src={splash} className="clip"/>
-            </button>
-            <button id="x" className="drum-pad" onClick={(e)=>playTonehandle(e)}>X
-            <audio id="X" src={tabla} className="clip"/>
-            </button>
-            <button id="c" className="drum-pad" onClick={(e)=>playTonehandle(e)}>C
-            <audio id="C" src={tom} className="clip"/>
-            </button>
+        
         </div>
     )
 }

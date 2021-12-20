@@ -48,11 +48,13 @@ function Drum (){
         setDisplay(e.target.getAttribute("id"));
         setStyle(active);
      }
-    
+     const putKeys = arrOfkeys.map((val)=>{
+        <KeyPad style={} code={} handleClick={playTone} id={} src={}/>
+     });
     
     return(
         <div id='drum-machine'>
-            <KeyPad arrOfkeys={keysArr} handleClick={playTone} style={style}/>
+            
             <Display monitor={display}/>
         </div>
         

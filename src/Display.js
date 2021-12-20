@@ -1,8 +1,8 @@
 
 
-function Display(){
+function Display(props){
 return (
-    <h5>display nothing</h5>
+    <h5>{props.monitor}</h5>
 )
 }
 

@@ -1,7 +1,17 @@
-.App {
+
+#drum-machine{
+  display: flex;
+  height: 200px;
+  width: 400px;
+  flex-flow: row wrap;
+}
+.drum-pad{
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+  line-height: 70px;
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;

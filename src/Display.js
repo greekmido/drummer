@@ -1,9 +1,7 @@
 
 
 function Display(props){
-return (
-    <h5>{props.monitor}</h5>
-)
+return <p>{props.display}</p>
 }
 
 

@@ -22,8 +22,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-.drum-pad:playing{
-  background: yellow;
+.drum-pad{
+  cursor: zoom-in;
+  user-select: none;
 }
 .App-header {
   background-color: #282c34;

@@ -5,10 +5,10 @@ import tunes from './tunes'
 
 
 function Drum (){
+    
     const [display,setDisplay] = useState("beat it!!");
-
     const keys= tunes.map((val)=>{
-        return <KeyPad display={setDisplay} tone={val.tone} id={val.id} src={val.src} />
+        return <KeyPad display={setDisplay} tone={val.tone} id={val.id} src={val.src} keys={val.key} />
     });
     
     return (

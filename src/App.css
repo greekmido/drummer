@@ -23,7 +23,7 @@
   }
 }
 .drum-pad{
-  cursor: zoom-in;
+  cursor: grab;
   user-select: none;
 }
 .App-header {

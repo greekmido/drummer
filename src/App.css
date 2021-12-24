@@ -2,15 +2,23 @@
 #drum-machine{
   display: flex;
   height: 200px;
-  width: 400px;
+  width: 240px;
   flex-flow: row wrap;
+  
 }
+h5{
+  flex: 1 100%;
+  text-align: center;
+}
+
 .drum-pad{
   width: 70px;
   height: 70px;
   margin: 5px;
   line-height: 70px;
   text-align: center;
+  border-radius: 20%;
+  
 }
 .App-logo {
   height: 40vmin;
@@ -26,7 +34,7 @@
   cursor: grab;
   user-select: none;
 }
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;

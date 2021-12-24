@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drummer/static/css/main.64cb72ec.css",
+    "main.js": "/drummer/static/js/main.6872e67c.js",
+    "static/js/787.6bf59b28.chunk.js": "/drummer/static/js/787.6bf59b28.chunk.js",
+    "static/media/splash.wav": "/drummer/static/media/splash.5def3b44bd3b7fc170b5.wav",
+    "static/media/tabla.wav": "/drummer/static/media/tabla.abd1c057d7f54ac96700.wav",
+    "static/media/snare.wav": "/drummer/static/media/snare.e08cfea9d7709c50fe48.wav",
+    "static/media/tom.wav": "/drummer/static/media/tom.f19f71b34bb12db23ca2.wav",
+    "static/media/elec-kick.wav": "/drummer/static/media/elec-kick.1a3890b60c521ebb937e.wav",
+    "static/media/hat.wav": "/drummer/static/media/hat.a9f1bcafb826c39cc2f6.wav",
+    "static/media/kick.wav": "/drummer/static/media/kick.c1a269d5cb3cbd432c29.wav",
+    "static/media/clap.wav": "/drummer/static/media/clap.d1fe1e22ec7e9557cb8b.wav",
+    "static/media/ride.wav": "/drummer/static/media/ride.76ad6b80572a2abbc497.wav",
+    "index.html": "/drummer/index.html",
+    "main.64cb72ec.css.map": "/drummer/static/css/main.64cb72ec.css.map",
+    "main.6872e67c.js.map": "/drummer/static/js/main.6872e67c.js.map",
+    "787.6bf59b28.chunk.js.map": "/drummer/static/js/787.6bf59b28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cb72ec.css",
+    "static/js/main.6872e67c.js"
+  ]
+}

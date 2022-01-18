@@ -1,6 +1,5 @@
 # Drumm machine 
 
----
 
 - a drumm machine built with react functional components 
 - can be operated with a mouse or a keyboard correspnded buttons 
